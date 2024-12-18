@@ -1,7 +1,8 @@
 # Admin-Dashboard
 This project is a part of The Odin Project’s curriculum, where I built an admin dashboard in HTML and CSS.
 
-Hi 👋, I'm Daniel
+Hi 👋, I'm Daniel.
+
 This is my submission for the [Odin Project's Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) project.
 
 ## Overview
