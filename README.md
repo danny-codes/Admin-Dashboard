@@ -5,7 +5,7 @@ Hi 👋, I'm Daniel.
 
 This is my submission for the [Odin Project's Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) project.
 
-<a href='https://danny-codes.github.io/Admin-Dashboard/'>Live Preview</a>
+<a href='https://danny-codes.github.io/Admin-Dashboard/'>Live Version</a>
 
 ## Overview
 This project is a **admin dashboard** created using **HTML**, **CSS**, and a bit of **JavaScript**. The goal was to replicate a design provided by The Odin Project, focusing on grid layout structure and user interface elements such as cards and avatars.
