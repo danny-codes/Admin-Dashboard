@@ -20,6 +20,7 @@ This project is a **admin dashboard** created using **HTML**, **CSS**, and a bit
 - **CSS3 (Vanilla CSS)**
 - **JavaScript (Vanilla JS)**
 
+
 ## Features
 - Includes a sidebar, trending section, and announcement cards.
 - Customizable color scheme and layout.
@@ -36,7 +37,7 @@ This project is a **admin dashboard** created using **HTML**, **CSS**, and a bit
 - Implementing grid and flexbox layouts.
 - Working with responsive design techniques.
 - Structuring an admin dashboard layout.
-- Improving my CSS and JavaScript skills.
+- Improving my CSS and HTML skills.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
